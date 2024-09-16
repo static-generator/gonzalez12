@@ -4,8 +4,9 @@
 
 Hobbies
 1. Playing tennis
-2. Playing basketball
-3. Playing games
+   ![JAM](image.jpg)
+3. Playing basketball
+4. Playing games
 
 Social Media
 - [Facebook](https://www.facebook.com/ericnathaiel.cortez)
