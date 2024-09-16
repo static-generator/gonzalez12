@@ -1,1 +1,2 @@
-# gonzalez12
+# Gonzalez
+### *Eric Nathaniel T. Cortez*
