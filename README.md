@@ -2,7 +2,7 @@
 ### *Eric Nathaniel T. Cortez*
 > Iriga City
 
-Hobbies
+Hobbies/Interests
 1. Playing tennis
    
    -Tennis is my main sport. I competed already in different competitions such as City Meet, Palarong Bicol and Jesuit Athletic Meet.
