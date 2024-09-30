@@ -12,6 +12,7 @@ Hobbies
 3. Playing games
    
    -In my free times I play games like Mobile Legends and Valorant.
+   
 Social Media
 - [Facebook](https://www.facebook.com/ericnathaiel.cortez)
 - [Instagram](https://www.instagram.com/rice_erc/)
