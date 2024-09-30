@@ -4,11 +4,11 @@
 
 Hobbies
 1. Playing tennis
-   Tennis is my main sport. I competed already in different competitions such as City Meet, Palarong Bicol and Jesuit Athletic Meet.
+   -Tennis is my main sport. I competed already in different competitions such as City Meet, Palarong Bicol and Jesuit Athletic Meet.
 2. Playing basketball
-   Since in Intrams there is no Tennis, I play basketball since it is also my second sport.
+   -Since in Intrams there is no Tennis, I play basketball since it is also my second sport.
 3. Playing games
-   In my free times I play games like Mobile Legends and Valorant.
+   -In my free times I play games like Mobile Legends and Valorant.
 Social Media
 - [Facebook](https://www.facebook.com/ericnathaiel.cortez)
 - [Instagram](https://www.instagram.com/rice_erc/)
